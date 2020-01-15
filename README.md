@@ -1,4 +1,4 @@
-# forkify-project
+# Recipe Searching app
 This is Recipe searching app using ES6, NPM, Babel and Webpack
 
 # Features
